@@ -1,0 +1,14 @@
+.main-component {
+    border: 1px solid black;
+}
+
+.controller-label {
+    font-size: 22px;
+}
+
+.saiyan-box {
+    border: 1px solid black;
+    height: 200px;
+    width: 350px;
+    display: inline-block;
+}
